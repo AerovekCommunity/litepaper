@@ -1,4 +1,4 @@
-<p style="background-color:white;margin-bottom:16px;" align="center">
+<p style="background:white;margin-bottom:16px;" align="center">
     <img width="600" src="./images/aerovek_aviation_logo.png?raw=true" alt="Aerovek logo">
 </p>
 <h1 align="center">Private Aviation Reimagined</h1>
