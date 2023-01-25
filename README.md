@@ -6,8 +6,6 @@
 # Project Summary
 Welcome to Aerovek Aviation! Aerovek Aviation is an end-to-end portal for all things private aviation with Web 3.0 features. With a low barrier entry for anyone to onboard, everything is designed to enhance strengths, create new marketplaces for aviation professionals and take passengers further than before!
 
-<br />
-
 The Aerovek community is building blockchain infrastructure for the private aviation industry's digital transformation. For some reason, the world of private aviation is powered by pen and paper. People lose and destroy flight logs, contracts, licenses, maintenance records, crew training, and tickets every day and it massively slows down the industry. The private aviation industry is like an old dial-up system and we want to expedite it directly to web3 with secure, immutable, and permissionless blockchain technologies. 
 
 ### Some of the major pain points include:
