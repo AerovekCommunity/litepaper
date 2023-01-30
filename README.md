@@ -111,7 +111,7 @@ At Aerovek Aviation, we focus on building blockchain infrastructure and tools fo
 
 <br />
 <p align="center">
-<img width="600" src="./images/Chartr_Keynote Image.001?raw=true" alt="Fly to earn">
+<img width="600" src="./images/Chartr_Keynote Image.001.jpeg?raw=true" alt="Fly to earn">
 </p>
 
 ## Chartr
