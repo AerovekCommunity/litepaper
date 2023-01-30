@@ -31,7 +31,7 @@ The Aerovek community is building blockchain infrastructure for the private avia
 * [FAQ](https://www.aerovek.io/features)
 
 <p align="center">
-<img width="600" src="./images/Aero twitter background_final.png?raw=true" alt="Chartr Mobile">
+<img width="1000" src="./images/Aero twitter background_final.png?raw=true" alt="Chartr Mobile">
 </p>
 
 # Introduction
@@ -111,7 +111,7 @@ At Aerovek Aviation, we focus on building blockchain infrastructure and tools fo
 
 <br />
 <p align="center">
-<img width="600" src="./images/fly-to-earn.png?raw=true" alt="Fly to earn">
+<img width="600" src="./images/Chartr_Keynote Image.001?raw=true" alt="Fly to earn">
 </p>
 
 ## Chartr
@@ -159,7 +159,7 @@ Openness and open communication: Since all data and transactions are stored on t
 
 <br />
 <p align="center">
-<img width="600" src="./images/biz-portal-ad.png?raw=true" alt="Chartr Business">
+<img width="600" src="./images/Chartr-biz_Image.png?raw=true" alt="Chartr Business">
 </p>
 
 
