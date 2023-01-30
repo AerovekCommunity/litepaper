@@ -42,7 +42,7 @@ The Aerovek community is building blockchain infrastructure for the private avia
 Give the tools to the people and disruption will seem sudden and natural. The rise in blockchain technology has allowed us to challenge the status quo and build a better tomorrow. It has allowed us to rethink the impossible, and innovate at exponential levels. There was once a day when flying seemed impossible, but now we are planning to colonize another planet. At Aerovek, we are building a community of innovators, pioneers, and out-of-the-box thinkers to disrupt the aviation industry and create a fully decentralized network. We are a peer-to-peer platform built on the blockchain that believes in a permissionless, borderless, and immutable world. 
 
 # Abstract
-Aerovek is a decentralized aviation ecosystem that is solving the archaic and inefficient nature of the aviation space through the use of blockchain technology. In conjunction with MultiversX (previously Elrond), the internet-scale blockchain, Aerovek is transforming the aviation business with our in-house mobile app Chartr, custom-built DAO, transformative API’s, and the largest decentralized aviation community in the world. 
+Aerovek is a decentralized aviation ecosystem that is solving the archaic and inefficient nature of the aviation space through the use of blockchain technology. In conjunction with MultiversX (previously Elrond), the internet-scale blockchain, Aerovek is transforming the aviation business with our private flight mobile app Chartr, custom-built DAO, transformative API’s, and the largest decentralized aviation community in the world. 
 
 # Problems for Passengers
 **It all started when our founder Ryan Dietz discovered that student pilots still had to log all of their flight training on a physical book, keep in mind this is in 2021. Dietz happened to be an experienced entrepreneur and software developer that was fascinated with blockchain technology and its endless use cases in the real world. He instantly started to dive into the industry and uncovered problem after problem and all he could think about was how blockchain implementation could solve alot of these problems in the private aviation industry. And just like that Aerovek Aviation was born.**
@@ -189,6 +189,11 @@ To learn more about contributing to the development of Chartr or how to gain acc
 * https://github.com/AerovekCommunity/chartr-electron-react
 * https://github.com/AerovekCommunity/Chartr.Android
 * https://github.com/AerovekCommunity/Chartr.iOS
+
+<br />
+<p align="center">
+<img width="600" src="./images/BaaS_IMAC.png?raw=true" alt="BAAS Image">
+</p>
 
 ## Aero Labs BaaS
 
