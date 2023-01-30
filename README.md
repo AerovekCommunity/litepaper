@@ -217,6 +217,11 @@ The Aerovek tools are meant to free up resources for aviation businesses. Some E
 
 ## Features
 
+<br />
+<p align="center">
+<img width="600" src="./images/AeroDAO.png?raw=true" alt="DAO Image">
+</p>
+
 ### DAO  ( Decentralized Autonomous Organization)
 
 We believe in creating a trustless, 100% transparent, and verifiable network and community. This is why we have made the easy decision to create AeroDAO, the governing entity of the Aerovek ecosystem. 
@@ -234,6 +239,11 @@ The smart contract functions as an immutable database, allowing for data to be s
 The Aerovek Pilot Ambassador Program (PAP) is an institution of like-minded individuals that are looking to expand the use and access to general aviation. The PAP is designed to bring pilots of all skill levels together to promote and exchange ideas to further develop and evolve the general aviation landscape.  Aerovek’s mission is to make private aviation more accessible.  One aspect of this mission is to see a peer-to-peer network of pilots cooperating with passengers through Aerovek in need of travel accommodations without the need to book through traditional airlines or booking agencies. 
 
 Founding Ambassadors are select individuals that provide leadership and initial development of the Aerovek Foundation Pilot Ambassador Program.  The Founding Ambassadors shall be limited to an odd number of participants not exceeding 13 individuals. The Pilot Ambassadors shall be considered a Decentralized Autonomous Organization (DAO) where the voting schema is transparent and controlled by the organization members. Only Founding Ambassadors reserve the right to make DAO proposals.  Founding Ambassadors will also manage the DAO.
+
+<br />
+<p align="center">
+<img width="600" src="./images/tokenomics.jpg?raw=true" alt="Tokenomics">
+</p>
 
 ### AERO Token
 
