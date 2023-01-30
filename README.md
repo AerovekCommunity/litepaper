@@ -1,5 +1,5 @@
 <p style="background:white;margin-bottom:16px;" align="center">
-    <img width="600" src="./images/aero-jet.png?raw=true" alt="Aerovek logo">
+    <img width="600" src="./images/6270445728c9ab7f4c70eb9f_Aerovek_WEB_White.png?raw=true" alt="Aerovek logo">
 </p>
 <h1 align="center">Private Aviation Reimagined</h1>
 
