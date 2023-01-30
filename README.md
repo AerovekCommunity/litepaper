@@ -31,7 +31,7 @@ The Aerovek community is building blockchain infrastructure for the private avia
 * [FAQ](https://www.aerovek.io/features)
 
 <p align="center">
-<img width="600" src="./images/chartr-ad.png?raw=true" alt="Chartr Mobile">
+<img width="600" src="./images/Aero twitter background_final.png?raw=true" alt="Chartr Mobile">
 </p>
 
 # Introduction
