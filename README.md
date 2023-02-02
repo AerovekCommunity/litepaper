@@ -117,6 +117,8 @@ At Aerovek Aviation, we focus on building blockchain infrastructure and tools fo
 ## Chartr
 *The power of private aviation in your pocket*
 
+
+
 Enter Chartr, our blockchain-based flight mobile application which tackles all of these issues and brings to the table all the benefits of running on the blockchain while giving you air mobility at your fingertips. Chartr is the world’s first Decentralized Private Aviation Application and will be available on both iOS and Android. Chartr allows its users to connect directly with Flight Charter services in their local area, and schedule a private flight without the need for a middleman. 
 Chartr will boost connectivity between aviation professionals, such as pilots, private aircraft owners, and passengers, and will enable a transparent method of tracking flights and an easy and secure way to accept the AERO token for payments as everything will be on the MultivesrX blockchain, and through the security and availability that they provide. 
 
@@ -247,7 +249,7 @@ Founding Ambassadors are select individuals that provide leadership and initial 
 
 ### AERO Token
 
-The Aerovek Token (AERO) is our ESDT (Elrond Standard Digital Token), which shares the same qualities as $eGLD. AERO facilitates the functioning of the Aerovek ecosystem. AERO holders will have governance over proposals and all future endeavors. 
+The Aerovek Token (AERO) is our ESDT (Elrond Standard Digital Token), which shares the same qualities as EGLD. AERO facilitates the functioning of the Aerovek ecosystem. AERO holders will have governance over proposals and all future endeavors. 
 
 AERO token was successfully listed on Maiar Dex. doing it with no presale, or private sale because we value the idea of providing equal chances to all, rewarding the community, and having full transparency. It's the cornerstone of what builds a healthy community and favors the organic growth of the project.
 
@@ -257,7 +259,7 @@ AERO also enables travelers to book travel products, earn loyalty rewards, and r
 
 #### Tokenomics
 
-Before our token was even listed, we implemented a dual reward mechanism for our Aerovek Staking Agency (Which has since been acquired by Helios Staking, which was another benefit for being an AERO holder since they received custom NFTs designed by Gnogen) so that for every $eGLD you stake you not only receive $eGLD rewards but also $AERO rewards. This resulted in $AERO tokens being distributed to over 1300 different wallet addresses.
+Before our token was even listed, we implemented a dual reward mechanism for our Aerovek Staking Agency (Which has since been acquired by Helios Staking, which was another benefit for being an AERO holder since they received custom NFTs designed by Gnogen) so that for every EGLD you stake you not only receive EGLD rewards but also AERO rewards. This resulted in AERO tokens being distributed to over 1300 different wallet addresses.
 
 To ensure decentralization we made sure that no big amounts of tokens fall into a few hands. This is why we decided against any private sale to venture capital investors but also against a private or public sale of the tokens. Even if that meant that we had to fund our current development from our own pocket.
 
