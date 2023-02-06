@@ -32,16 +32,33 @@
 	<li><a href="#lack-of-blockchain-infrastructure-and-developer-tools">Lack of Blockchain infrastructure and Developer Tools</a></li>
 	</ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#solution">Solution</a></li>
+    <li><a href="#chartr">Chartr</a>
+<ul>
+        <li><a href="#benefits-of-flying-private">Benefits of Flying Private</a></li>
+        <li><a href="#benefits-of-community-development">Benefits of community development</a></li>
+	<li><a href="#decentralizing-the-protocol">Decentralizing the Protocol</a></li>
+	</ul>
+</li>
+    <li><a href="#chartr-business">Chartr Business</a>
+<ul>
+        <li><a href="#benefits">Benefits</a></li>
+        </ul>
+</li>
+    <li><a href="#aero-labs-baas">Aero Labs BaaS</a></li>
+    <li><a href="#features">Features</a>
+<ul>
+        <li><a href="#dao-decentralized-autonomous-organization">DAO ( Decentralized Autonomous Organization )</a></li>
+        <li><a href="#pap">PAP</a></li>
+	<li><a href="#aero-token">AERO Token</a></li>
+<li><a href="#aero-wallet">AERO Wallet</a></li>
+        <li><a href="#lounge">Lounge</a></li>
+	<li><a href="#aerovek-aviators-club">AEROVEK AVIATORS CLUB</a></li>
+	</ul>
+</li>
+<li><a href="#why-multiversx">Why MultiversX (Previously Elrond)</a></li>
   </ol>
 </details>
-
-
-# Project Summary
 
 # Project Summary
 Welcome to Aerovek Aviation! Aerovek Aviation is an end-to-end portal for all things private aviation with Web 3.0 features. With a low barrier entry for anyone to onboard, everything is designed to enhance strengths, create new marketplaces for aviation professionals and take passengers further than before!
@@ -264,7 +281,7 @@ The Aerovek tools are meant to free up resources for aviation businesses. Some E
 <img width="600" src="./images/AeroDAO.png?raw=true" alt="DAO Image">
 </p>
 
-### DAO  ( Decentralized Autonomous Organization)
+### DAO Decentralized Autonomous Organization
 
 We believe in creating a trustless, 100% transparent, and verifiable network and community. This is why we have made the easy decision to create AeroDAO, the governing entity of the Aerovek ecosystem. 
 
@@ -336,7 +353,7 @@ Members will be part of an exclusive self-determined club and holders of at leas
 Aerovek Aviation is an ESDT project and for our NFT collections, we partner with NFT specialized teams, beneficiating from their expertise and increasing the exposure of the project to NFT-based communities and fans while we continue focusing our development resources on our core products. 
 
 
-## Why MultiversX (Previously Elrond) 
+## Why MultiversX
 
 **Dare to believe what is possible with AERO & EGLD**
 
