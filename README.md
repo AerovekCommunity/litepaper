@@ -3,12 +3,52 @@
 </p>
 <h1 align="center">Private Aviation Reimagined</h1>
 
+<!-- TABLE OF CONTENTS -->
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#project-summary">Project Summary</a>
+       <ul>
+       <li><a href="#real-world-use-cases">Real World Use Cases</a></li>
+       <li><a href="#get-involved">Get Involved</a></li>
+       </ul>
+    </li>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#abstract">Abstract</a></li>
+    <li>
+      <a href="#problems-for-passengers">Problems for Passengers</a>
+      <ul>
+        <li><a href="#traveling-commercially">Traveling Commercially</a></li>
+        <li><a href="#difficulty-booking-private-flights">Difficulty Booking Private Flights</a></li>
+	<li><a href="#corporate-web2-opacity-and-centralization">Corporate Web2 Opacity and Centralization</a></li>
+      </ul>
+    </li>
+    <li><a href="#problems-for-private-pilots-and-airlines">Problems for Private Pilots and Airlines</a>
+	<ul>
+        <li><a href="#poor-organization-and-security-risks">Poor organization and security risks</a></li>
+        <li><a href="#inefficient-communication-and-no-sense-of-community">Inefficient Communication and no Sense of Community</a></li>
+	<li><a href="#lack-of-blockchain-infrastructure-and-developer-tools">Lack of Blockchain infrastructure and Developer Tools</a></li>
+	</ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
+
+# Project Summary
+
 # Project Summary
 Welcome to Aerovek Aviation! Aerovek Aviation is an end-to-end portal for all things private aviation with Web 3.0 features. With a low barrier entry for anyone to onboard, everything is designed to enhance strengths, create new marketplaces for aviation professionals and take passengers further than before!
 
 The Aerovek community is building blockchain infrastructure for the private aviation industry's digital transformation. For some reason, the world of private aviation is powered by pen and paper. People lose and destroy flight logs, contracts, licenses, maintenance records, crew training, and tickets every day and it massively slows down the industry. The private aviation industry is like an old dial-up system and we want to expedite it directly to web3 with secure, immutable, and permissionless blockchain technologies. 
 
-### Some of the major pain points include:
+#### Some of the major pain points include:
 * Difficulty Booking a Private Charter Flight: You have to research all the charters in your area send them all an email for a quote and wait for their reply. 
 * Payment Fees: Traditionally, passengers are required to pay a 3 to 5% fee on credit card purchases, which can add up to more than $3,000 per flight.
 * No sense of community: Difficult for aviation businesses to market services and create a thriving community of passionate customers.
@@ -67,11 +107,11 @@ If you wanted to book a private charter tomorrow chances are it wouldn't happen.
 Not to mention that the majority of private airlines and brokerages don't offer any type of mile-based loyalty program or incentives for their most loyal customers. Not only do they not reward their community they also offer “Memberships” that are sometimes mandatory just to have access to their fleet. These memberships can cost up to $100K annually and could still make you wait 90 days until allowing you to book your first flight.
 
 
-## Corporate Web2 Opacity & Centralization
+## Corporate Web2 Opacity and Centralization
 
 There is obviously alot of opacity when it comes to the Airline industry both commercial and private regarding the details of every flight, pilot, crew, cost, etc. Along with opacity, customers of these airlines have no ownership, community, governance, or incentives outside frequent flyer miles. Every single major industry decision for users and pilots is made by only a handful of companies/people. Users cant decide what flights will be scheduled, and choose their pilot/plane. And there is zero transparency to any of these decisions. Transparency alone is a huge issue. All the customers' data is owned and managed by centralized parties that get to do whatever they want to it. 
 
-# Problems for Private Pilots/Airlines
+# Problems for Private Pilots and Airlines
 
 ## Poor organization and security risks
 
